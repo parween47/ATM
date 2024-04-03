@@ -1,9 +1,10 @@
 {
-  "name": "atm",
+  "name": "atm-by-ubaid-qureshi",
   "version": "1.0.0",
   "description": "This is a program work as an ATM Machine",
   "main": "index.js",
   "type": "module",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
